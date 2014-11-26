@@ -1,6 +1,6 @@
 #Demo for EasyGallery
 
-This project aims at demonstrating the basic usage of [EasyGallery](https://github.com/piotrberlowski/EasyGallery).
+This project aims at demonstrating the basic usage of [EasyGallery Backend](https://github.com/EasyGallery/Backend) and [Frontend](https://github.com/EasyGallery/FlexFrame).
 
 ##Steps to set up
 
